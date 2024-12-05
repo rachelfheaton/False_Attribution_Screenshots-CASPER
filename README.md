@@ -1,7 +1,7 @@
 # False_Attribution_Screenshots-CASPER
 This is a repository that archives screenshots taken from the version <a href="https://github.com/visionlabatuillinois/CASPER-2.0-NSF-award-number-BCS1921735/activity"> history </a> of the Vision Lab at UIllinois GitHub repository visionlabatuillinois/CASPER-2.0-NSF-award-number-BCS1921735 produced by Professors Simona Buetti and Alejandro Lleras.
 
-The original repository and tag is https://github.com/rachelfheaton/CASPER-model/releases/tag/v1.0.0_beta created by https://github.com/rachelfheaton in collaboration with https://github.com/jehummel
+The VisionLabatUIllinois repository was copied from https://github.com/rachelfheaton/CASPER-model/releases/tag/v1.0.0_beta created by https://github.com/rachelfheaton in collaboration with https://github.com/jehummel
 
 
 #### Although the original repository was open source software, these screenshots document the inappropriate:
