@@ -12,7 +12,7 @@ The original repository and tag is https://github.com/rachelfheaton/CASPER-model
 
 #### • removal of attributions to prior work
 
-#### • removal of statements of authorship by the original creators of the work
+#### • removal of statements of authorship and credit by the original creators of the work
 
 #### • removal of the citation to the dissertation of the student that produced the research
 
